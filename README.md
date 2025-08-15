@@ -112,7 +112,7 @@ docker run -p 8080:8080 jenkins/jenkins:lts
 ![Jenkins Job Configuration](Screenshots/jenkins_job_2.png)
 
 - Build Success	
-![Build Success](Screenshot/Build_Success.png)
+![Build Success](Screenshots/Build_Success.png)
 
 ---
 
@@ -134,5 +134,6 @@ docker run -p 8080:8080 jenkins/jenkins:lts
 🔗 LinkedIn: [Nikki Goyal](https://www.linkedin.com/in/nikki-goyal-devops)
 
 ---
+
 
 *Feel free to ⭐ this repository if you find it helpful!*
