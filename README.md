@@ -112,7 +112,11 @@ docker run -p 8080:8080 jenkins/jenkins:lts
 ![Jenkins Job Configuration](Screenshots/jenkins_job_2.png)
 
 - Build Success	
+<<<<<<< HEAD
 ![Build Success](Screenshot/Build_Success.png)
+=======
+![Build Success](Screenshots/Build_Success.png)
+>>>>>>> e7b9944 (Added README.md and Screenshots file)
 
 ---
 
